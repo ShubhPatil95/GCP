@@ -35,3 +35,11 @@
 
 </p>
 </details>
+
+<details><summary> <h2>Big data and ML product categories</h2> </summary>
+<p>
+<h4> Below are the 4 categories</h4> 
+<img src="https://github.com/ShubhPatil95/GCP/blob/main/GCP_Big_Data_and_ML_Fundamentals/images/B1.png">
+
+</p>
+</details>
